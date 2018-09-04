@@ -1,1 +1,6 @@
 # hello-world
+A little bit about myself...
+
+haha! ... I'm tired.
+
+I wrote some thigns about myself...
